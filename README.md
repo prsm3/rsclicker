@@ -7,7 +7,7 @@ A left click simulator (autoclicker) using the inputbot crate written in rust.
 Install rsclicker:
 
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $ git clone https://github.com/prsm3/rsclicker
   > or clone the repo manually
 
   $ cd rsclicker
